@@ -1,0 +1,7 @@
+1. CRA
+2. src/components 디렉토리 생성
+3. components 디렉토리에 각각 input, goal 디렉토리 생성
+4. input 디렉토리에 Input.js와 Input.module.css 작성 
+5. goal 디렉토리에 Goal.js와 Goal.module.css 작성
+6. src/containers 디렉토리 만들고 MainContainer.js와 MainContainer.module.css 작성 (이 때 dayjs와 react-icons 라이브러리 설치)
+7. App.js에서 mainContainer를 반환하도록 수정

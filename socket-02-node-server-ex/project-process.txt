@@ -1,0 +1,11 @@
+리액트로 배우는 소켓 프로그래밍 책 02장에서 실습하는 서버이다.
+
+server.js를 먼저 작성하고, 이 스크립트가 서빙할 index.html을 작성했다.
+그리고 프로젝트의 루트 경로에서 아래의 node 명령어를 실행한다.
+
+node server.js
+
+
+
+$ node server.js
+5000 port is running

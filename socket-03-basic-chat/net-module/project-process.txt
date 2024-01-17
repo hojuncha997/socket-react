@@ -1,0 +1,6 @@
+리액트로 배우는 소켓 프로그래밍 2장 실습-노드
+
+1. server.js 작성
+2. client.js 작성
+
+node server.js
